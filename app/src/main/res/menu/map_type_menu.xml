@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/normal"
+        android:title="Normal"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/satellite"
+        android:title="Satellite"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/hybird"
+        android:title="Hybird"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/terrain"
+        android:title="Terrain"
+        app:showAsAction="collapseActionView"/>
+
+</menu>
